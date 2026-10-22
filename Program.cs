@@ -34,14 +34,15 @@ namespace BilleteraCajaArequipa.Logica
                 {
                     case "1":
                         Console.Write("Ingrese el monto de la nueva transferencia: S/ ");
-                        if (decimal.TryParse(Console.ReadLine(), out decimal monto))
+                        // Se valida que el numero sea mayor a 0, para que no ingrese montos negativos o 0 en las transacciones.
+                        if (decimal.TryParse(Console.ReadLine(), out decimal monto) && monto > 0 && monto <= 100000)
                         {
                             // Generamos un código aleatorio para la operación
                             string codigo = "OP" + new Random().Next(1000, 9999);
                             Operacion nuevaOp = new Operacion(codigo, monto, "Transferencia Entrante");
 
                             cola.Encolar(nuevaOp);
-                            Console.WriteLine($"\n[ÉXITO] Operación {codigo} encolada correctamente en la memoria.");
+                            Console.WriteLine($"\n[ÉXITO] Operación {codigo} por S/ {monto} encolada correctamente en la memoria.");
                         }
                         else
                         {

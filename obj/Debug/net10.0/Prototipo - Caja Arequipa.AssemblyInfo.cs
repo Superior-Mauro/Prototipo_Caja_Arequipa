@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prototipo - Caja Arequipa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd58f157f064f18dd2b552c38efc503056ba5104")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prototipo - Caja Arequipa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prototipo - Caja Arequipa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
