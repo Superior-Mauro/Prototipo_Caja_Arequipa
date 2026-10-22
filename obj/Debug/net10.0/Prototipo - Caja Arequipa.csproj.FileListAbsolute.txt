@@ -1,0 +1,15 @@
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\bin\Debug\net10.0\Prototipo - Caja Arequipa.exe
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\bin\Debug\net10.0\Prototipo - Caja Arequipa.deps.json
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\bin\Debug\net10.0\Prototipo - Caja Arequipa.runtimeconfig.json
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\bin\Debug\net10.0\Prototipo - Caja Arequipa.dll
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\bin\Debug\net10.0\Prototipo - Caja Arequipa.pdb
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototipo - Caja Arequipa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototipo - Caja Arequipa.AssemblyInfoInputs.cache
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototipo - Caja Arequipa.AssemblyInfo.cs
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototipo - Caja Arequipa.csproj.CoreCompileInputs.cache
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototipo - Caja Arequipa.dll
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\refint\Prototipo - Caja Arequipa.dll
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototipo - Caja Arequipa.pdb
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototipo - Caja Arequipa.genruntimeconfig.cache
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\ref\Prototipo - Caja Arequipa.dll
+C:\Users\MAURO\Downloads\Prototipo - Caja Arequipa\Prototipo - Caja Arequipa\obj\Debug\net10.0\Prototip.874EB5F0.Up2Date

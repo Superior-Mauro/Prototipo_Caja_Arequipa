@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Prototipo - Caja Arequipa/1.0.0": {
+        "runtime": {
+          "Prototipo - Caja Arequipa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prototipo - Caja Arequipa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
